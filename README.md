@@ -5,10 +5,7 @@ This app allows users to add, mark as complete, and delete tasks with a simple a
 
 ---
 
-## 📷 Screenshot
- ![To-Do List App](todo.png)  
 
----
 
 ## 🚀 Features
 - ✅ Add new tasks
@@ -25,6 +22,9 @@ This app allows users to add, mark as complete, and delete tasks with a simple a
 - JavaScript (Vanilla JS)
 
 ---
+## 📷 Screenshot
+ ![To-Do List App](todo.png)  
 
+---
 ## 🌐 Live Demo
-[**View App Here**] https://hsbadgujar.github.io/taskify/ 
+[**View App Here**](https://hsbadgujar.github.io/taskify/ )  
